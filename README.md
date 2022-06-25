@@ -11,4 +11,4 @@ ___________________
 # Used technologies
 
 ### Languages
--[TypeScript](https://www.typescriptlang.org)
+- [TypeScript](https://www.typescriptlang.org)
