@@ -16,3 +16,6 @@ ___________________
 ### Frameworks
 - [React](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
+
+### Tools
+- [Create React App](https://create-react-app.dev)
