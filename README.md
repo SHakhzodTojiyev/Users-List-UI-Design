@@ -9,6 +9,9 @@ ___________________
 # Used technologies
 
 ### Languages
+- [HTML](https://www.w3schools.com/html)
+- [CSS](https://www.w3schools.com/css)
+- [JavaScript](https://www.javascripttutorial.net)
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Frameworks
@@ -18,13 +21,13 @@ ___________________
 - [React](https://reactjs.org)
 - [React Icons](https://react-icons.github.io/react-icons)
 
-### Developer tools and environment
+### Developer tools and environments
 - [Manjaro OS](https://manjaro.org)
 - [Git version control](https://git-scm.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Google Chrome Browser](https://www.google.com/chrome)
 - [Create React App](https://create-react-app.dev)
 
-### Deployment environment
+### Deployment environments
 - [github.com](https://github.com)
 - [netlify.com](https://www.netlify.com)
