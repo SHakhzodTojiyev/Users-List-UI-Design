@@ -4,7 +4,7 @@
 
 ### Website demo: [users-list-ui-design.netlify.app](https://users-list-ui-design.netlify.app)
 
-### Figma Design resource: [www.figma.com](https://www.figma.com/file/SLUEmDBZPYf3mnNpvPs0De/day_1542?node-id=0%3A1)
+### Figma Design resource: [figma.com](https://www.figma.com/file/SLUEmDBZPYf3mnNpvPs0De/day_1542?node-id=0%3A1)
 ___________________
 # Used technologies
 
