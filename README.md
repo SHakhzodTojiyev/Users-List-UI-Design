@@ -14,8 +14,11 @@ ___________________
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Frameworks
-- [React](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
+
+### Libraries
+- [React](https://reactjs.org)
+- [React Icons](https://react-icons.github.io/react-icons)
 
 ### Tools
 - [Create React App](https://create-react-app.dev)
