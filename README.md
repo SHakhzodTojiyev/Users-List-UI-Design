@@ -8,3 +8,4 @@
 ### Figma Design
 [www.figma.com](https://www.figma.com/file/SLUEmDBZPYf3mnNpvPs0De/day_1542?node-id=0%3A1)
 
+# Used technologies
