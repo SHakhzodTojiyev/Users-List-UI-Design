@@ -12,3 +12,7 @@ ___________________
 
 ### Languages
 - [TypeScript](https://www.typescriptlang.org)
+
+### Frameworks
+- [React](https://reactjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
