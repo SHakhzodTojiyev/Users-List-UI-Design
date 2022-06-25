@@ -2,11 +2,9 @@
 
 ![Users List UI Design](https://i.ibb.co/WN9L4p5/Day-1542-Users-List-UI-Design.png)
 
-### Web Site
-[users-list-ui-design.netlify.app](https://users-list-ui-design.netlify.app)
+### Website demo: [users-list-ui-design.netlify.app](https://users-list-ui-design.netlify.app)
 
-### Figma Design
-[www.figma.com](https://www.figma.com/file/SLUEmDBZPYf3mnNpvPs0De/day_1542?node-id=0%3A1)
+### Figma Design resource: [www.figma.com](https://www.figma.com/file/SLUEmDBZPYf3mnNpvPs0De/day_1542?node-id=0%3A1)
 ___________________
 # Used technologies
 
@@ -20,5 +18,13 @@ ___________________
 - [React](https://reactjs.org)
 - [React Icons](https://react-icons.github.io/react-icons)
 
-### Tools
+### Developer tools and environment
+- [Manjaro OS](https://manjaro.org)
+- [Git version control](https://git-scm.com)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Google Chrome Browser](https://www.google.com/chrome)
 - [Create React App](https://create-react-app.dev)
+
+### Deployment environment
+- [github.com](https://github.com)
+- [netlify.com](https://www.netlify.com)
